@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <br />
+    <!-- Header image here if possible -->
+    <!-- <a href="https://astar.network/" target="_blank">
+      <img src="https://repository-images.githubusercontent.com/177367936/60698df1-c1d8-4f3f-8d49-780ea65a04fc" alt="Project Banner">
+    </a> -->
+  <br />
 
-## Getting Started
+  <div>
+    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </div>
 
-First, run the development server:
+  <h3 align="center">TournaMate</h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+   <div align="center">
+    A web application that helps generate a tournament game bracket and publicly share it with others
+    </div>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📋 Table of Contents
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<!-- CI Badges here -->
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. 🚀 [Quick Start](#quick-start)
+2. 📜 [License](#license)
+3. 🧐 [Author Information](#author)
 
-## Learn More
+## 🔗 <a name="quick-start">Quick Start</a>
 
-To learn more about Next.js, take a look at the following resources:
+Steps to get started:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📜 <a name="license">License</a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+MIT / BSD
 
-## Deploy on Vercel
+## 🧐 <a name="author">Author Information</a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This role was created in 2024 by [Asyraf Norafandi](https://www.github.com/asyrafnorafandi)
